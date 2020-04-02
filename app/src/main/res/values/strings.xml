@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ProductivityBuddy</string>
+    <string name="productivitybuddy">ProductivityBuddy</string>
+    <string name="open_lists">Open Lists</string>
+    <string name="quit">Quit</string>
+    <string name="list_of_statuses">List of Statuses</string>
+    <string name="enable_status">Enable Status</string>
+</resources>
